@@ -1,7 +1,7 @@
 monetizeThis
 ============
-
-This is a simple utility function to check whether a given URL is monetizable, using an external API. If the URL is monetizable, the function returns an object with a boolean `isMonetizable` property and a `response` object that includes a `monetize` function. If the URL is not monetizable or an error occurs, an exception is thrown.
+monetizeThis lets you monetize your web extension audience with one line of code, opening up a world of possibilities to build helpful, free products with a revenue stream from the start.
+**THIS IS A WORK IN PROGRESS.** [@dougiesilkstone](https://twitter.com/dougiesilkstone) on twitter for more.
 
 Installation
 ------------
